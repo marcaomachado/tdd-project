@@ -1,0 +1,7 @@
+Testes de Unidade se preocupam em testar funções e pequenos comportamentos. 
+São testes que focam na visão do desenvolvedor;
+Ajudam a escrever código limpo e sem bug.
+
+
+Testes Funcionais verificam funcionalidades do sistema, validando as especificações do usuário.
+Garantem que o desenvolvedor irá construir o que está sendo pedido.
