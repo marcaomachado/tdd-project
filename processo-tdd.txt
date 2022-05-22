@@ -1,0 +1,8 @@
+A figura mostra a utilização do TDD para Testes Funcionais e Teste de Unidade simultaneamente.
+Para utilizar TDD, primeiro escrevemos dois testes, um funcional e um de unidade que inicialmente irão falhar ao serem executados.
+Depois escrevemos um código mínimo e rodamos o teste de unidade. Se não passar, escrevemos mais código e repetimos essa ideia até passar.
+Depois que passar, podemos refatorar o código caso seja necessário.
+Após fazer o teste de unidade passar, podemos rodar o teste funcional novamente e verificar se ele passa.
+Se não passar, repetimos a partir de linha 3 desse arquivo.
+Se ele passar, verificamos se precisa de refatoração.
+Se não precisa de refatorar, escrevemos mais testes funcionais e iniciamos o processo novamente.
